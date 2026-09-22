@@ -10,7 +10,7 @@ Team Members:
 2620090075 - MANDADI BHUVANESH CHOWDARY
 2620080100 - CHALLA VARSHITH REDDY
 
-Supervisor's Name: Dr. Madhavi Karumudi
+Supervisor's Name: BALAIAH GUDIPUDI
 
 Abstract:
 The Intercity Bus Reservation System is a Java-based application developed to simplify the process of searching for and selecting buses for intercity travel. The system allows users to enter their source, destination, and travel date. Based on the selected route, it displays the available buses along with their respective bus numbers and departure and arrival times. Users can then select a suitable bus from the available options.
